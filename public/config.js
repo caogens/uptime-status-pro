@@ -7,7 +7,7 @@ window.Config = {
 
   // UptimeRobot Api Keys（支持 Monitor-Specific 和 Read-Only）
   ApiKeys: [
-    'ur2828404-32ec189c0d47d45b7f0a207a',
+    'ur2828404-900051a576b5cb090300a22c',
   ],
 
   // 监控周期天数（默认30天）
